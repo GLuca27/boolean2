@@ -1,0 +1,76 @@
+body{
+  background-image: url(sfondo.jpg);
+  background-size: cover;
+  margin: auto;
+  padding: 20px
+}
+
+.conteiner{
+  width: 1000px;
+  height: 600px;
+  margin: auto;
+  background-color: rgba(0, 0, 0, 0.7);
+}
+
+input{
+  margin: 10px;
+}
+
+button{
+  margin: 5px auto;
+}
+
+
+span{
+  display:block;
+  margin: 5px;
+  color: lightgray;
+}
+
+.linea1{
+  background-color: lime;
+  width: 850px;
+  height: 30px;
+  margin: auto;
+  text-align: center;
+}
+
+b{
+  font-size: 20px;
+}
+
+.nomi{
+  color: white;
+  padding-left: 70px;
+  margin: 20px 0px;
+}
+
+.linea2{
+  background-color: orange;
+  height: 20px;
+  width: 300px;
+}
+
+.linea3{
+  background-color: green;
+  height: 20px;
+  width: 500px;
+}
+
+.linea4{
+  background-color: red;
+  height: 20px;
+  width: 120px;
+}
+
+div > img{
+  width: 200px;
+  margin: auto;
+  padding-left: 400px;
+}
+
+div > h2{
+  color: lime;
+  text-align: center;
+  font-size: 25px;
+}
